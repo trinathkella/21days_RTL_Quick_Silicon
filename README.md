@@ -21,8 +21,8 @@ Each day's challenge focuses on core RTL design principles using Verilog/SystemV
 | 11  | Parallel to Serial               |
 | 12  | Sequence Detector                |
 | 13  | Muxes                            |
-| 14  | Fixed Priority Encoder           |
-| 15  | Masked Round Robin Arbiter       |
+| 14  | Fixed Priority Arbiter           |
+| 15  | Round Robin    Arbiter           |
 | 16  | APB Master                       |
 | 17  | Simple Memory Interface          |
 | 18  | APB Slave                        |
