@@ -5,30 +5,20 @@ This repository contains solutions to the RTL design challenges provided in the 
 Each day's challenge focuses on core RTL design principles using Verilog/SystemVerilog and aims to strengthen digital design fundamentals through hands-on problem solving.
 
 ## Challenge List
- ----------------------------------------
-| Day | Problem Name                     |
-|-----|----------------------------------|
-| 1   | Basic 2:1 Multiplexer            |
-| 2   | D Flip FLop                      |
-| 3   | Decoder Design                   |
-| 4   | Priority Encoder                 |
-| 5   | Simple Arbiter (Fixed Priority)  |
-| 6   | Round Robin Arbiter              |
-| 7   | Barrel Shifter                   |
-| 8   | Bit Reversal                     |
-| 9   | Parity Generator & Checker       |
-| 10  | Population Count (Bit Counter)   |
-| 11  | LFSR Based PRNG                  |
-| 12  | Sequence Detector (Mealy)        |
-| 13  | Sequence Detector (Moore)        |
-| 14  | One Hot Encoder                  |
-| 15  | Masked Round Robin Arbiter       |
-| 16  | APB Master                       |
-| 17  | Basic FIFO                       |
-| 18  | Asynchronous FIFO                |
-| 19  | Up-Down Counter                  |
-| 20  | Traffic Light Controller         |
-| 21  | ALU Design                       |
- ----------------------------------------
+ -----------------------------------------------------------------------------------
+| Day | Problem Name                     |                                          |
+|-----|----------------------------------|------------------------------------------
+| 1   | Basic 2:1 Multiplexer            | | 12  | Sequence Detector                |
+| 2   | D Flip FLop                      | | 13  | Muxes                            |
+| 3   | Edge Detector                    | | 14  | Fixed Priority Encoder           |
+| 4   | Simple ALU                       | | 15  | Masked Round Robin Arbiter       |
+| 5   | Odd Counter                      | | 16  | APB Master                       |
+| 6   | Shift Register                   | | 17  | Simple Memory Interface          |
+| 7   | LFSR                             | | 18  | APB Slave                        |
+| 8   | Binary to One Hot                | | 19  | Synchronous FIFO                 |
+| 9   | Binary to Gray                   | | 20  | APB System                       |
+| 10  | Self Reloading Counter           | | 21  | Day 21                           |
+| 11  | Parallel to Serial               | | 22  | Day 22                           |
+ -----------------------------------------------------------------------------------
 🔗(https://quicksilicon.in/course/21daysofrtl)
 
