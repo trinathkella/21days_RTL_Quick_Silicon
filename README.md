@@ -1,4 +1,4 @@
-# RTL Design Practice Problems (QuickSilicon)
+# RTL Design Practice Problems
 
 This repository contains solutions to the RTL design challenges provided in the **"21 Days RTL Design Course"** by QuickSilicon.
 
