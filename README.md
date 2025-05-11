@@ -9,7 +9,7 @@ Each day's challenge focuses on core RTL design principles using Verilog/SystemV
 | Day | Problem Name                     |
 |-----|----------------------------------|
 | 1   | Basic 2:1 Multiplexer            |
-| 2   | 4:1 Multiplexer                  |
+| 2   | D Flip FLop                      |
 | 3   | Decoder Design                   |
 | 4   | Priority Encoder                 |
 | 5   | Simple Arbiter (Fixed Priority)  |
